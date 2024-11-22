@@ -1,0 +1,2 @@
+git+https://github.com/kwang2049/nlp4web-codebase.git
+gradio
