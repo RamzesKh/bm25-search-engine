@@ -15,4 +15,4 @@ This project implements a BM25-based search engine for the SciQ dataset. It prov
   - run: pip install -r requirements.txt
 - To build the BM25 index, run the main script:
   - run: python main.py
-Once the index is built, the Gradio interface launches automatically. Open the provided URL in your browser (default is http://127.0.0.1:7860/) to start using the search engine.
+- Once the index is built, the Gradio interface launches automatically. Open the provided URL in your browser (default is http://127.0.0.1:7860/) to start using the search engine.
